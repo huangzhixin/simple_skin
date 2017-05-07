@@ -18,3 +18,4 @@ Version 3.0
  - Create time: 01.05.2017
  - Complete time: 07.05.2017
  - Description: I rewrite the code based on object-oriented method. Many failed methods and redundant functions are removed. All functions are integrated into three classes(preprocess, calculate features and classifier), which have better scalability and robustness. When you develop new applications only need to extend these three classes, and then according to your application's special requirement to rewrite and expand the three class of methods.
+![image]https://github.com/huangzhixin/simple_skin/blob/master/version.png
