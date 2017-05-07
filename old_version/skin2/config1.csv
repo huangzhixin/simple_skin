@@ -1,0 +1,14 @@
+Name,value
+File_Name,a_rec.txt
+File_location,recordings/
+Crop_column_begin,0
+Crop_column_end,23
+Crop_row begin,0
+Crop_row end,16
+clean_threshold,20
+scale_ratio,4
+Name_of_run,a
+mat_size_x,23
+mat_size_y,16
+frame_rate,41
+lable_file,a_lab.txt
