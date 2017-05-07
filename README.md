@@ -2,13 +2,13 @@
 Code Version Description
 
 Version 1.0
- - Project name: oldversion/skin1
+ - If you want more detail go to 'oldversion/skin1'
  - Create time: 31.10.2016
  - Complete time：20.12.2016
  - Description: this version is very similar as ankus’ Matlab code, all the code is based on script so it is easy to understand and fully capable of developing simple applications, but it is very difficult to expansion and re-development of complex applications.
 
 Version 2.0 
- - Project name: oldversion/skin2
+ - If you want more detail go to 'oldversion/skin2'
  - Create time: 02.02.2017
  - Complete time:15.04.2017
  - Description: based on the first version I have changed all the script code to functions, so that the code can easy to call, and during the development my application I tried to improv and add a lot of new functions, but finally the code is very confusing。
